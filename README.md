@@ -12,7 +12,6 @@
 
 <p align="center">
   <a href="mailto:losadaquibano96@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  
   <a href="https://orcid.org/0009-0007-1226-3712"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </p>
 
