@@ -76,8 +76,8 @@ The work is ongoing and not yet defended, so implementation details and source c
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JesusLosada10&show_icons=true&hide_border=true&title_color=0B7285&icon_color=0B7285&card_width=450" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusLosada10&layout=compact&hide_border=true&title_color=0B7285&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jdlosadaq&show_icons=true&hide_border=true&title_color=0B7285&icon_color=0B7285&card_width=450" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdlosadaq&layout=compact&hide_border=true&title_color=0B7285&langs_count=8" alt="Top languages" />
 </p>
 
 ---
