@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:losadaquibano96@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  
   <a href="https://orcid.org/0009-0007-1226-3712"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </p>
 
@@ -92,5 +92,5 @@ The work is ongoing and not yet defended, so implementation details and source c
 ---
 
 <p align="center">
-  <i>Reach me at <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a> — I reply to every serious message.</i>
+  <i>Reach me at <a href="mailto:losadaquibano96@gmail.com">losadaquibano96@gmail.com</a> — I reply to every serious message.</i>
 </p>
